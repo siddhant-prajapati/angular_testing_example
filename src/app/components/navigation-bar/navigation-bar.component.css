@@ -1,0 +1,19 @@
+/* Style the topnav links */
+a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #ddd; 
+  }
+  
+  /* Change color on hover */
+   a:hover {
+    color: white;
+    background-color: #333;
+  }
+
+  .text-color {
+    color: black;
+  }
